@@ -4,6 +4,8 @@ Simpsons Quotes
 Fetch Simpsons quotes
 Use the Simpsons Quotes API
 
+
+# Finished
 create src/services/simpsonsApi.js
 create a getQuote function that fetches a simpson quote
 create src/action/simpsons.js
@@ -31,6 +33,8 @@ pass fetch to the Load component
 Refactor
 Show a loading screen while waiting
 add loading to your redux state
+
+# Not Finished
 Create a withFetch higher order component
 Deploy
 Deploy your app to netlify
